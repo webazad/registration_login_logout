@@ -1,1 +1,35 @@
 
+*{
+    margin: 0;
+    padding: 0;
+}
+div.big_wrapper{
+    text-align: center;
+}
+header{
+    background: white;
+}
+nav{
+    margin-bottom: 100px;
+}
+ul.menu{
+    background: #e3e3e3;
+    list-style: none;
+}
+ul.menu li{
+    display: inline;
+}
+ul.menu li a{
+    text-decoration: none;
+    display:inline-block;
+    padding: 10px;
+}
+footer{
+    background: black;
+    color: white;
+}
+section.dashboard{
+    width: 30%;
+    margin: 0 auto;
+    min-height: 480px;
+}
