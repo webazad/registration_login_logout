@@ -1,2 +1,2 @@
-# registration_login_logout
-basic coding of registration login and logout
+# Registration Login Logout
+Raw coding of registration, login and logout of any applications
